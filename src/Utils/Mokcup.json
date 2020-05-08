@@ -1,0 +1,622 @@
+[
+    {
+        "sprintId": 1,
+        "content": [
+            {
+                "id": "S1",
+                "description": "Crear índex",
+                "completed": true,
+                "tasks": [
+                    {
+                        "Task": 1,
+                        "description": "Afinar puntos de acuerdo en layout de página inicial del sitio web.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "Task": 2,
+                        "description": "Selección de imágenes y tipografías.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "Task": 3,
+                        "description": "Codificación de pantalla índex.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    
+                    {
+                        "Task": 4,
+                        "description": "Codificación de pantalla índex.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    }
+
+                ],
+                "comments": [
+                    "Reunión de involucrados para planear, diseñar índex, asignar objetivos y tareas. Del sitio web."
+                ],
+                "conditions": []
+            },
+            {
+                "id": "S2",
+                "description": "Diseño de Estructura",
+                "completed": true,
+                "tasks": [
+                    {
+                        "task": 5,
+                        "description": "Reunión Team.  ",
+                        "inCharge": "Adrian González"
+                    },
+                    {
+                        "task": 6,
+                        "description": "Diseño de layout de la estructura  de ventas online.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "task": 7,
+                        "description": "Diseño de base de datos para artículos.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "task": 8,
+                        "description": "Diseño de base de datos usuarios.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "task": 9,
+                        "description": "Diseño de base de datos clientes.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "task": 10,
+                        "description": "Codificación de sección 1.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "task": 11,
+                        "description": "Codificación de sección 2.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "task": 12,
+                        "description": "Codificación de sección 3.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "task": 13,
+                        "description": "Codificación de sección 4.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "task": 14,
+                        "description": "Codificación de sección 5.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "task": 15,
+                        "description": "DCodificación de sección 6.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },{
+                        "task": 16,
+                        "description": "Pruebas de funcionalidad.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    }
+                ],
+                "comments": [
+                    "El Sistema será un  punto de venta y facturación online.(codificación del  p.v.)"
+                ],
+                "conditions": []
+            },
+            {
+                "id": "S13",
+                "description": "Creación de servidor",
+                "completed": true,
+                "tasks": [
+                    {
+                        "task": 17,
+                        "description": "Reunión Team.  ",
+                        "inCharge": "Adrian González"
+                    },
+                    {
+                        "backlogId": "S13",
+                        "task": 18,
+                        "description": "Diseño de layout de la estructura  de ventas online.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S13",
+                        "task": 19,
+                        "description": "Diseño de base de datos para artículos.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S13",
+                        "task": 20,
+                        "description": "Diseño de base de datos usuarios",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S13",
+                        "task": 21,
+                        "description": "Diseño de base de datos clientes.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S13",
+                        "task": 22,
+                        "description": "Codificación de sección 1.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S13",
+                        "task": 23,
+                        "description": "Codificación de sección 2.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S13",
+                        "task": 23,
+                        "description": "Codificación de sección 3.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S13",
+                        "task": 23,
+                        "description": "Codificación de sección 4.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S13",
+                        "task": 23,
+                        "description": "Codificación de sección 5.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S13",
+                        "task": 23,
+                        "description": "Codificación de sección 6.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S13",
+                        "task": 23,
+                        "description": "Pruebas de funcionalidad.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    }
+
+                ],
+                "comments": [
+                    "Crear Catalogo tiempo real."
+                ],
+                "conditions": []
+            }
+            
+            
+        ]
+    },
+    {
+       
+       
+       
+       
+        "sprintId": 2,
+        "content": [
+            {
+                "id": "S11",
+                "description": "Crear Formato para reporte diario.",
+                "completed": false,
+                "tasks": [
+                    {
+                        "backlogId": "S11",
+                        "id": 19,
+                        "description": "Reunión Team.",
+                        "inCharge": "Luis Lira"
+                    },
+                    {
+                        "backlogId": "S11",
+                        "id": 20,
+                        "description": "Codificación de query por sucursal ventas de mostrador a menudeo.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S11",
+                        "id": 21,
+                        "description": "Codificación de query por sucursal ventas de mostrador a mayoreo.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S11",
+                        "id": 22,
+                        "description": "Codificación de query para ventas online.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S11",
+                        "id": 23,
+                        "description": "Diseño de reporte para query.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S11",
+                        "id": 24,
+                        "description": "Pruebas de funcionalidad.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    }
+                ],
+                "comments": [
+                    "el sistema deberá entregar reporte diario de productos de bajo inventario, ventas por cada sucursal, dividir las ventas de mostrador, Mayoreo y en línea."
+                ]
+                
+            },
+            {
+                "id": "S5",
+                "description": "Plantear sistema Seguridad para el sitio Web.",
+                "completed": false,
+                "tasks": [
+                    {
+                        "backlogId": "S5",
+                        "id": 25,
+                        "description": "Reunión Team.",
+                        "inCharge": "Luis Lira"
+                    },
+                    {
+                        "backlogId": "S5",
+                        "id": 26,
+                        "description": "Planificación de sistema de seguridad.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S5",
+                        "id": 27,
+                        "description": "Codificación etapa 1. ",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },{
+                        "backlogId": "S5",
+                        "id": 28,
+                        "description": "Codificación etapa 2.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },{
+                        "backlogId": "S5",
+                        "id": 29,
+                        "description": "Codificación etapa 3.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },{
+                        "backlogId": "S5",
+                        "id": 30,
+                        "description": "Pruebas de seguridad de información.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },{
+                        "backlogId": "S5",
+                        "id": 31,
+                        "description": "Pruebas de seguridad al pagar c/ tarjeta.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    }
+                ],
+                "comments": [
+                    "el sistema deberá contar con un sistema de seguridad para compras online."
+                ]
+                
+            },
+            {
+                "id": "S4",
+                "description": "Planificar metodología de logueo de Usuario.",
+
+                "completed": false,
+                "tasks": [
+                    {
+                        "backlogId": "S4",
+                        "id": 32,
+                        "description": "Reunión Team.",
+                        "inCharge": "Luis Lira"
+                    },
+                    {
+                        "backlogId": "S4",
+                        "id": 33,
+                        "description": "Acondicionamiento de base de datos.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S4",
+                        "id": 34,
+                        "description": "Generar código de logeo.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S4",
+                        "id": 35,
+                        "description": "Acoplamiento a código de estructura.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S4",
+                        "id": 36,
+                        "description": "Pruebas de funcionalidad.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    }
+                ],
+                "comments": [
+                    "el sistema debe contar con un sistema de logueo para el usuario de ventas de mostrador."
+                ]
+                
+            }
+        ]
+    },
+    {
+        "sprintId": 3,
+        "content": [
+            {
+                "id": "S6",
+                "description": "Pagina de registro de cliente.",
+                "completed": false,
+                "tasks": [
+                    {
+                        "backlogId": "S6",
+                        "id": 37,
+                        "description": "Reunión Team.",
+                        "inCharge": "Luis Lira"
+                    },
+                    {
+                        "backlogId": "S6",
+                        "id": 38,
+                        "description": "Acondicionamiento de base de datos.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S6",
+                        "id": 39,
+                        "description": "Codificación de pantalla de registro.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S6",
+                        "id": 40,
+                        "description": "Pruebas de funcionalidad.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    }
+                ],
+                "comments": [
+                    "El sistema debe permitir registrar al cliente."
+                            ],
+                "conditions": []
+            },
+            {
+                "id": "S12",
+                "description": "Crear procedimiento de Ingreso y caducidad de productos.",
+                "completed": false,
+                "tasks": [
+                    {
+                        "backlogId": "S12",
+                        "id": 42,
+                        "description": "Reunión Team.",
+                        "inCharge": "Luis Lira"
+                    },
+                    {
+                        "backlogId": "S12",
+                        "id": 42,
+                        "description": "Acondicionamiento base de datos artículos.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S12",
+                        "id": 43,
+                        "description": "Codificación de pantalla de registro alta de artículos.",
+                        "inCharge":"José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S12",
+                        "id": 44,
+                        "description": "Pruebas de Funcionalidad.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    }
+                    
+                ],
+                "comments": [
+                    "Crear procedimiento de Ingreso y caducidad de productos."
+                ]
+                
+            },
+            {
+                "id": "S8",
+                "description": "Preparar base de datos para Historial de cliente.",
+                "completed": false,
+                "tasks": [
+                    {
+                        "backlogId": "S8",
+                        "id": 37,
+                        "description": "Reunión Team.",
+                        "inCharge": "Luis Lira"
+                    },
+                    {
+                        "backlogId": "S8",
+                        "id": 45,
+                        "description": "Diseño de base de datos.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S8",
+                        "id": 46,
+                        "description": "Diseño de sección de búsqueda.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S8",
+                        "id": 47,
+                        "description": "Codificación de sección 1.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S8",
+                        "id": 48,
+                        "description": "Codificación de sección 2.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },{
+                        "backlogId": "S8",
+                        "id": 49,
+                        "description": "Acondicionamiento de modulo a estructura.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },{
+                        "backlogId": "S8",
+                        "id": 50,
+                        "description": "Pruebas de funcionalidad.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    }
+                ],
+                "comments": [
+                    "La herramienta deberá guardar un historial de compra y búsqueda de cada cliente."
+                            ],
+                "conditions": []
+            },
+            {
+                "id": "S3",
+                "description": "Definir modulo para Cambio de usuario.",
+                "completed": false,
+                "tasks": [
+                    {
+                        "backlogId": "S3",
+                        "id": 51,
+                        "description": "Reunión Team.",
+                        "inCharge": "Luis Lira"
+                    },
+                    {
+                        "backlogId": "S3",
+                        "id": 52,
+                        "description": "Diseño de módulo de logueo a usuarios en modo estación etapa 1.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S3",
+                        "id": 53,
+                        "description": "Diseño de módulo de logueo a usuarios en modo estación etapa 2.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S3",
+                        "id": 54,
+                        "description": "Pruebas de funcionalidad.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    }
+                ],
+                "comments": [
+                    "Debe ser interfaz simple  que interactúe en cualquier momento que se desee cambiar de usuario."
+                            ],
+                "conditions": []
+            },
+            {
+                "id": "S7",
+                "description": "Registro de los Contactos de cliente.",
+                "completed": false,
+                "tasks": [
+                    {
+                        "backlogId": "S7",
+                        "id": 55,
+                        "description": "Reunión Team.",
+                        "inCharge": "Luis Lira"
+                    },
+                    {
+                        "backlogId": "S7",
+                        "id": 56,
+                        "description": "Diseño de logaritmo de robot.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S7",
+                        "id": 57,
+                        "description": "Pruebas de funcionalidado.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    }
+                ],
+                "comments": [
+                    "El sistema debe permitir ingresar redes sociales, email y contactos del cliente."
+                            ],
+                "conditions": []
+            },
+            {
+                "id": "S9",
+                "description": "Pagina de registro de cliente.",
+                "completed": false,
+                "tasks": [
+                    {
+                        "backlogId": "S9",
+                        "id": 58,
+                        "description": "Reunión Team.",
+                        "inCharge": "Luis Lira"
+                    },
+                    {
+                        "backlogId": "S9",
+                        "id": 59,
+                        "description": "Diseño de logaritmo generador de código.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S9",
+                        "id": 60,
+                        "description": "Pruebas de funcionalidad.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    }
+                    
+                ],
+                "comments": [
+                    "El sistema debe generar en automático código de cliente al generar su registro."
+                            ],
+                "conditions": []
+            },
+            {
+                "id": "S10",
+                "description": "Instrumento de enlace con redes sociales.",
+                "completed": false,
+                "tasks": [
+                    {
+                        "backlogId": "S10",
+                        "id": 61,
+                        "description": "Reunión Team.",
+                        "inCharge": "Luis Lira"
+                    },
+                    {
+                        "backlogId": "S10",
+                        "id": 62,
+                        "description": "Diseño de logaritmo robot replica de publicidad a usuarios. ",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S10",
+                        "id": 63,
+                        "description": "Pruebas de funcionalidad.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    }
+                ],
+                "comments": [
+                    "El sistema debe impulsar al cliente a recomendarnos."
+                            ],
+                "conditions": []
+            },
+            {
+                "id": "S15",
+                "description": "Pagina de registro de cliente.",
+                "completed": false,
+                "tasks": [
+                    {
+                        "backlogId": "S15",
+                        "id": 64,
+                        "description": "Reunión Team.",
+                        "inCharge": "Luis Lira"
+                    },
+                    {
+                        "backlogId": "S15",
+                        "id": 65,
+                        "description": "Checking de Funcionalidad de sitio web.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    },
+                    {
+                        "backlogId": "S15",
+                        "id": 66,
+                        "description": "Pruebas de funcionalidad.",
+                        "inCharge": "José Ma. Gutiérrez"
+                    }
+                ],
+                "comments": [
+                    "Buen diseño, funcionalidad y apariencia de sitio web."
+                            ],
+                "conditions": []
+            }
+        ]
+    }
+   
+]
